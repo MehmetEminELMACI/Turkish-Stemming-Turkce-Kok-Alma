@@ -1,3 +1,4 @@
+
 from snowballstemmer import TurkishStemmer
 ts = TurkishStemmer()
 kelimeler = ['kalemler', 'kalemlik', 'yapacağım', 'bardaklarımız',"gittik", ]
