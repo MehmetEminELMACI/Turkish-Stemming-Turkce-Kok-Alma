@@ -3,3 +3,8 @@ ts = TurkishStemmer()
 kelimeler = ['kalemler', 'kalemlik', 'yapacağım', 'bardaklarımız',"gittik", ]
 for k in kelimeler:
     print(ts.stemWord(k))
+kalem
+kalemlik
+yapacak
+bardak
+git
